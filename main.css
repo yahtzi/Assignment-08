@@ -1,0 +1,59 @@
+body {
+	background-color: #222222;
+	color: #666666;
+	font-size: 18px;
+	padding: 1em 8em;
+}
+
+header, main {
+	margin: 1.5em;
+	padding: 1em;
+}
+
+header {
+	text-align: center;
+}
+
+a:link, a:visited, a:active {
+	border: 2px solid lightblue;
+	border-radius: 2px;
+	color: #ffff00;
+}
+
+a:hover {
+	background-color: #ffff00;
+	color: #ffaa50;
+}
+
+table {
+	border-spacing: 0;
+	border-collapse: separate;
+}
+
+table td {
+	background-color: #dd0000;
+	border: 1px solid #000000;
+	color: #ffaa50;
+	margin: 0;
+	padding: .5em;
+}
+
+table tr {
+	margin: 0;
+	padding: 0;
+}
+
+.large-text {
+	font-size: 2.5em;
+}
+
+.medium-text {
+	font-size: 1.75em;
+}
+
+.favorite-thing {
+	background-color: #ffffff;
+	color: #000000;
+	margin: 1.5em 0;
+	padding: 1em;
+}
