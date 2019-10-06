@@ -15,14 +15,14 @@ header {
 }
 
 a:link, a:visited, a:active {
-	border: 2px solid lightblue;
+	border: 2px solid #135858;
 	border-radius: 2px;
-	color: #ffff00;
+	color: #12510B;
 }
 
 a:hover {
-	background-color: #ffff00;
-	color: #ffaa50;
+	background-color: #FFFFD1;
+	color: #8A4700;
 }
 
 table {
@@ -31,9 +31,9 @@ table {
 }
 
 table td {
-	background-color: #dd0000;
+	background-color: #b9faf9;
 	border: 1px solid #000000;
-	color: #ffaa50;
+	color: #00067A;
 	margin: 0;
 	padding: .5em;
 }
